@@ -24,8 +24,8 @@ export default function Hero() {
         </div>
         <div className="mt-12 lg:mt-0 lg:w-1/2">
           <Image
-            src="/usa-map.jpg" // Replace with the path to your USA image
-            alt="Map of the United States"
+            src="https://images.unsplash.com/photo-1530747656683-c940eb6472d0?q=80&w=1990&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Black students graduating"
             width={600}
             height={400}
             className="rounded-lg shadow-2xl"
@@ -44,3 +44,4 @@ export default function Hero() {
     </div>
   )
 }
+
